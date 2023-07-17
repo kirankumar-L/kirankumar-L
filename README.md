@@ -1,4 +1,4 @@
-### Hi there, Stalker! 👋 😆
+### Hi there, Visitor! 👋 😆
 
 <p align="center">
     <img width="40%" src="https://media.giphy.com/media/1HR5KdtOinpQs/giphy.gif" alt="Welcome hug!">
