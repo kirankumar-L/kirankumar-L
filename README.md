@@ -5,7 +5,18 @@
         <img width="40%" src="https://media.giphy.com/media/1HR5KdtOinpQs/giphy.gif" alt="Welcome hug!">
     </p>
     <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/?username=kirankumar-L&count_private=true&theme=tokyonight&showicons=true" alt="My GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api/?username=kirankumar-L&show=reviews,discussions_started,discussions_answered,prs_merged&count_private=true&theme=transparent&showicons=true", alt="PR Stats" />
+        <!-- <picture>
+            <source
+                srcset="https://github-readme-stats.vercel.app/api?username=kirankumar-L&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&count_private=true&theme=dark"
+                media="(prefers-color-scheme: dark)"
+                />
+            <source 
+                srcset="https://github-readme-stats.vercel.app/api?username=kirankumar-L&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&count_private=true&show_icons=true" 
+                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
+                />
+          <img src="https://github-readme-stats.vercel.app/api?username=kirankumar-L&show_icons=true" />
+        </picture> -->
     </div><br/>
     <p align="center">
         <img width="40%" src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" alt="Work motto">
